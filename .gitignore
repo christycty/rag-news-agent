@@ -1,0 +1,11 @@
+*/node_modules
+*/app
+**/.env
+**__pycache__/
+**/database/
+**logs/
+*.out
+*.zip
+**.o
+**/news
+*.bat

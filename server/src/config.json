@@ -1,0 +1,23 @@
+{
+    "tags": {
+      "time_scaling_factor": 0.95,
+      "click_score": 0.1,
+      "skip_score": -0.05,
+      "bookmark_score": 0.3,
+      "max_tag_score": 0.5,
+      "max_tag_contribution": 0.1,
+      "similar_tag_weight": 0.5
+    },
+    "query": {
+      "retrieve_count": 10,
+      "candidate_count": 10,
+      "result_count": 3,
+      "web_search_count": 5,
+      "rag_mode": "rephrased_query",
+      "article_rank_mode": "algo",
+      "interest_weight": 0,
+      "embeddings_similarity_weight": 0,
+      "llm_weight": 1
+    }
+    
+}
